@@ -15,6 +15,8 @@ Examples for drawing boxes:
 - http://stackoverflow.com/questions/78890034/allow-moving-element-via-dragging-but-only-within-a-range-and-with-a-limit-with?utm_source=chatgpt.com
 - https://stackoverflow.com/questions/50808980/getpointerposition-of-stage-in-react-konva
 
+<img width="1577" height="966" alt="Screenshot 2025-07-17 at 2 13 53 p m" src="https://github.com/user-attachments/assets/d5d6d70b-56b4-4cdf-8213-8c28a310b7ff" />
+
 
 ## Available Scripts
 
