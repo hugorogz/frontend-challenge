@@ -13,6 +13,7 @@ Examples for drawing boxes:
 - https://codesandbox.io/p/sandbox/react-konva-create-draw-rect-fw9hw?file=%2Fsrc%2Findex.js%3A11%2C24-11%2C68
 - https://blog.intzone.com/using-konva-js-to-annotate-image-with-bounding-boxes/?utm_source=chatgpt.com
 - http://stackoverflow.com/questions/78890034/allow-moving-element-via-dragging-but-only-within-a-range-and-with-a-limit-with?utm_source=chatgpt.com
+- https://stackoverflow.com/questions/50808980/getpointerposition-of-stage-in-react-konva
 
 
 ## Available Scripts
