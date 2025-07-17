@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Used Resources
 
-KonvaJS Library - https://konvajs.org/
-React Konva Repo (wrap of KonvaJS for react) - https://github.com/konvajs/react-konva
-Ant D (for UI components) - https://ant.design/
-Konva Tutrorials - https://konvajs.org/docs/index.html
+- KonvaJS Library - https://konvajs.org/
+- React Konva Repo (wrap of KonvaJS for react) - https://github.com/konvajs/react-konva
+- Ant D (for UI components) - https://ant.design/
+- Konva Tutrorials - https://konvajs.org/docs/index.html
 
 Examples for drawing boxes:
 - https://codesandbox.io/p/sandbox/react-konva-create-draw-rect-fw9hw?file=%2Fsrc%2Findex.js%3A11%2C24-11%2C68
